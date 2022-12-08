@@ -2,7 +2,7 @@ import modules.Sayhello as App
 
 
 def run():
-    app = App.Sayhello("Git")
+    app = App.SayHello("Git")
     app.say()
 
 
